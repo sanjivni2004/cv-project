@@ -219,6 +219,5 @@ This project is for educational purposes as part of a university course submissi
 
 ## 👤 Author
 
-*[Your Name]*
-*[Your University]*
+
 *Winter Semester 2025–2026 — Computer Vision Course*
